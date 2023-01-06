@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://i.ibb.co/m4L4c4t/Nico-Fernandez.gif">
 <p align="center">
-Despues de terminar un grado medio, tuve la oportunidad de realizar un fp superior de Desarrollo de Aplicaciones Multiplataforma, estoy terminando dicho curso.
+Despues de terminar un grado medio, tuve la oportunidad de realizar un fp superior de Desarrollo de Aplicaciones Multiplataforma. Al terminar dichos estudios entré de prácticas en EY, finalmente me contrataron como RPA developer, a día de hoy sigo trabajando como desarrollador RPA principalmente usando blue prism
 
 Este sera mi repositorio principal donde subire diversos proyectos y practicas que ire haciendo!!!
 
