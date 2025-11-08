@@ -1,7 +1,8 @@
 # 👋 Hola, soy Nicolás Fernández Heredia
 
 <p align="center">
-  <img src="https://i.ibb.co/m4L4c4t/Nico-Fernandez.gif">
+ <img src="https://i.imgur.com/cg7vxCL.gif)">
+  
 </p>
 
 Soy un profesional apasionado por la **tecnología** y la **automatización**, con experiencia en el desarrollo de soluciones RPA y pruebas automatizadas de software.
